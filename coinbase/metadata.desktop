@@ -2,6 +2,7 @@
 Encoding=UTF-8
 Name=Coinbase
 Comment=Coinbase BTC, ETH and LTC price list.
+Icon=utilities-system-monitor
 Type=Service
 
 #X-KDE-Library=coinbase_price_list
