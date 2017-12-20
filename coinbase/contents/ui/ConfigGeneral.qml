@@ -41,7 +41,7 @@ Item {
 
             ComboBox {
                 id: displayedCurrencyBox
-                width: 2007
+                width: 200
                 model: [ "USD", "EUR", "CZK" ]
 
                 onActivated: {
