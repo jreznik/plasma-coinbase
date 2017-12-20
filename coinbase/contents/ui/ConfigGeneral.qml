@@ -23,7 +23,7 @@ Item {
             ComboBox {
                 id: cryptocurrencyBox
                 width: 200
-                model: [ "BTC", "ETH", "LTC" ]
+                model: [ "BTC", "BCH", "ETH", "LTC" ]
 
                 onActivated: {
                     saveConfig()
